@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
+}
